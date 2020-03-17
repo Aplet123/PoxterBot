@@ -4,7 +4,7 @@ import nacre
 
 class AboutSession:
 
-	about = "PoxterBot is a bot framework for Google Hangouts. You can view source code at https://github.com/GeneralPoxter/PoxterBot. Thanks!"
+	about = "PoxterBot is a bot framework for Google Hangouts. You can view source code at https://github.com/GeneralPoxter/PoxterBot -- Thanks!"
 
 	def __init__(self, poxter, config):
 		self.poxter = poxter
