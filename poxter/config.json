@@ -8,6 +8,9 @@
 		"about": {
 			"path": "plugins/about.py"
 		},
+		"coronavirus": {
+			"path": "plugins/coronavirus.py"
+		},
 		"hello": {
 			"path": "plugins/hello.py"
 		},
@@ -16,6 +19,7 @@
 			"commands": {
 				"8ball": "Fortunes and advice",
 				"about": "General information",
+				"coronavirus [region (optional)]": "Display number of active cases",
 				"hello": "Poxter greets you!",
 				"help": "Usage and command list",
 				"[image_name]": "Summon image"
